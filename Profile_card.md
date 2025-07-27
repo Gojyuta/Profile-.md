@@ -9,14 +9,14 @@
 
 ###  About Me 🔻
 
-- 🧪 Currently learning ***Python basics and Intermidiate challenges***
-- 🧰 Trying small coding projects to grow my skills  
-- 🌱 Interested in automation, AI & creative coding  
-- 🎯 Smartly building my coding streak & consistency
+🔹 🧪 Currently learning ***Python basics and Intermidiate challenges***
+🔹 🧰 Trying small coding projects to grow my skills  
+🔹 🌱 Interested in automation, AI & creative coding  
+🔹 🎯 Smartly building my coding streak & consistency
 
 ---
 
-### 🚧 My Focus Right Now
+### 🔍 My Focus Right Now 🔻
 
 🔹 ✔ Python syntax, logic building, and patterns  
 🔹 ✔ Git & GitHub basics  
