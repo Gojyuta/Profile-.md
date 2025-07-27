@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 I'm Raezorbill (Gojyuta)</h1>
 
 <p align="center">
- #### Python and Html rookie •  Student •  Creator
-  
-####  Learning code. Building habits. Making Progress
+  Python and Html rookie •  Student •  Creator
+  Learning code. Building habits. Making Progress
 </p>
 
 ---
